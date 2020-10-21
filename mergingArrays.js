@@ -6,3 +6,6 @@ function mergeArrays(arr1, arr2){
 }
 
 mergeArrays([0, 3, 4, 31], [4, 6, 30])
+
+
+// still work in progress
