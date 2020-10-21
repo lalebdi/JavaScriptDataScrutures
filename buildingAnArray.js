@@ -63,3 +63,6 @@ console.log(newArray)
 
 newArray.delete(1)
 console.log(newArray)
+
+
+// done
