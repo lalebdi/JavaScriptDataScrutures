@@ -61,3 +61,6 @@ const wizard2 = new Wizard('Brenda', 'Dark Magic');
 
 wizard1.play()
 wizard1.introduce()
+
+
+// done
