@@ -28,3 +28,5 @@ const a = new Map()
 // the difference between a Map and an Object, a Map allows you to save any data type as a key. like functions and arrays. Map maintains insertion orders. 
 
 const b = new Set()
+
+// done
