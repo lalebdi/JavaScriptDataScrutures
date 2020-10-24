@@ -30,4 +30,4 @@ console.log(strings)
 // Static arrays are fixed in size
 // Dynamic arrays allow us to copy and rebuild a new array in a new location with new memory. 
 
-// done
+// Arrays allows cashe locality, whcih makes them faster in accessing items in memory.
