@@ -4,6 +4,7 @@
 // new nodes can be added to a linked list by resetting the pointers.
 // to access a certain node in a linked list, you need to traverse the linked list until you find the node. 
 
+//  Have more dynamic memory
 
 //  Grabage collection = memory management
 
