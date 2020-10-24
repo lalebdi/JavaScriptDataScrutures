@@ -92,6 +92,33 @@ class LinkedList {
         }
         return currentNode;
     }
+
+    remove(index){
+        // check params
+        const leader = this.traverseToIndex(index -1)
+        const unwatedNode = leader.next;
+        leader.next = unwatedNode.next;
+        this.length--;
+        return this.printList()
+    }
+
+    reverse(){
+        if (!this.head.next){ // -> if there is only one node
+            return this.head
+        }
+        let first = this.head
+        this.tail = this.head
+        let second = first.next
+        while(second){
+            const temp = second.next;
+            second.next = first;
+            first = second;
+            second = temp
+        }
+        this.head.next = null;
+        this.head = first
+        return this
+    }
 }
 
 const myLinkedList = new LinkedList(10)
@@ -99,6 +126,10 @@ myLinkedList.append(5)
 myLinkedList.append(16)
 myLinkedList.prepend(1)
 myLinkedList.insert(1, 99)
-myLinkedList.insert(20, 88)
+myLinkedList.insert(200, 88)
+console.log(myLinkedList)
+myLinkedList.remove(1)
 myLinkedList.printList()
+console.log(myLinkedList)
+myLinkedList.reverse()
 console.log(myLinkedList)
