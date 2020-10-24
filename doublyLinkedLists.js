@@ -120,3 +120,5 @@ console.log(myLinkedList)
 // myLinkedList.remove(1)
 // myLinkedList.printList()
 // console.log(myLinkedList)
+
+// remove haven't been done
