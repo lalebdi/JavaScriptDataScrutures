@@ -20,7 +20,7 @@ class BinarySearchTree {
             while (true){
                 if (value < currentNode.value){
                     // goes left
-                    if (!currentNode){
+                    if (!currentNode.left){
                         currentNode.left = newNode;
                         return this;
                     }
