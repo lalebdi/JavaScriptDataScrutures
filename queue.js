@@ -44,3 +44,10 @@ class Queue{
 
 }
 
+const myQueue = new Queue()
+myQueue.enqueue("Bella");
+myQueue.enqueue("Maruysa");
+myQueue.enqueue("Snowball");
+console.log(myQueue)
+myQueue.dequeue()
+console.log(myQueue)
