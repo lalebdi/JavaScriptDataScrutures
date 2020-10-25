@@ -38,13 +38,23 @@ class BinarySearchTree {
     }
 
     lookup(value){
-        if (value < this.root){
-            // check the left side
-        } else {
-            // check the right side
+        if (!this.root){
+            return false;
         }
-        return 
+        let currentNode = this.root;
+        while (currentNode) {
+            if (value < currentNode.value){ // -> if the value is less than the currentNode. value that means its not the same So go left.
+                currentNode = currentNode.left;
+            } else if (value > currentNode.value){
+                currentNode = currentNode.right;
+            } else if (currentNode.value == value) {
+                return currentNode;
+            }
+        }
+        return false; // -> if you don't find anything return false
     } 
+
+    
 }
 
 const tree = new BinarySearchTree();
@@ -55,7 +65,9 @@ tree.insert(20);
 tree.insert(170);
 tree.insert(15);
 tree.insert(1);
-console.log(JSON.stringify(traverse(tree.root)));
+// console.log(JSON.stringify(traverse(tree.root)));
+// console.log(tree.lookup(9))
+console.log(tree.lookup(15))
 
 
 
