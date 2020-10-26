@@ -21,11 +21,14 @@ class Graph {
     }
 
     addVertex(node){
-
+        this.adjacentList[node] = [] // when a node is added its's not going to have any connections
+        this.numberOfNodes++;
     }
 
     addEdge( node1, node2 ){
         // Undirected Graph
+        this.adjacentList[node1].push(node2); // sonce this is an undirect graph we have to do the connection the other way around.
+        this.adjacentList[node2].push(node1); 
     }
 
     showConnecttions(){
@@ -34,12 +37,12 @@ class Graph {
 
         for ( let node of allNodes) {
             let nodeConnections = this.adjacentList[node];
-            let connetions ="";
+            let connections ="";
             let vertex;
             for (vertex of nodeConnections) {
-                econnections += vertex + " "
+                connections += vertex + " "
             }
-            console.log(node + "-->" + connetions)
+            console.log(node + "-->" + connections)
         }
     }
 }
@@ -52,3 +55,21 @@ myGraph.addVertex('3');
 myGraph.addVertex('4');
 myGraph.addVertex('5');
 myGraph.addVertex('6');
+myGraph.addEdge('3', '1');
+myGraph.addEdge('3', '4');
+myGraph.addEdge('4', '2');
+myGraph.addEdge('4', '5');
+myGraph.addEdge('1', '2');
+myGraph.addEdge('1', '0');
+myGraph.addEdge('0', '2');
+myGraph.addEdge('6', '5');
+
+myGraph.showConnecttions();
+//  Output:
+//  0 --> 1 2
+//  1 --> 3 2 0
+//  2 --> 4 1 0
+//  3 --> 1 4
+//  4 --> 3 2 5
+//  5 --> 4 6
+//  6 --> 5 
