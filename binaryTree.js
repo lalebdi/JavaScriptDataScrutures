@@ -36,3 +36,9 @@ Some rules for Binary search trees:
 //  Binary Search Trees have better time complexity, ordered and is size-flexiable. However, there are no O(1) operations. 
 
 // AVL Tree and Red Black Tree are slef balancing Binary Search Trees
+
+// Binary Heaps are for comparative operations. 
+// Heaps are used for data storage, priority queues, and sorting algorithems
+// Heaps add values in order of left to right
+
+// A trie is a specialized tree used mostly for searching text. For searching, it might out perform other data structures. The big O here is O(length of word).
