@@ -34,3 +34,5 @@ Some rules for Binary search trees:
 // why it bad? -> You lowered the time complexity.
 
 //  Binary Search Trees have better time complexity, ordered and is size-flexiable. However, there are no O(1) operations. 
+
+// AVL Tree and Red Black Tree are slef balancing Binary Search Trees
