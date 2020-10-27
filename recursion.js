@@ -17,3 +17,5 @@ function inception(){
 // Recursion has exponential time complexity O(2^n) most of the time.
 
 // It is recommended to use recursion when working with data structures that we're not sure how deep they are or how many loops we have to go through.
+
+// It is useful in tree data structures and  doing traversal.
