@@ -13,3 +13,5 @@ function inception(){
 // 1- Identify the base case. -> when to stop
 // 2- Identify the recursive case.
 // 3- Get closer and closer and return when needed. Usually you have 2 returns for the base case and the return base.
+
+// Recursion has exponential time complexity O(2^n) most of the time.
