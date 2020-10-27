@@ -15,3 +15,5 @@ function inception(){
 // 3- Get closer and closer and return when needed. Usually you have 2 returns for the base case and the return base.
 
 // Recursion has exponential time complexity O(2^n) most of the time.
+
+// It is recommended to use recursion when working with data structures that we're not sure how deep they are or how many loops we have to go through.
