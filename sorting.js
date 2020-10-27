@@ -1,4 +1,4 @@
-// The main sorting algorithms I will discuss are:
+// The main Comparison sorting algorithms I will discuss are:
 // 1- Bubble Slrot.          Elementery Sorts. nested for loops 
 // 2- Insertion Sort.       Elementery Sorts. nested for loops 
 // 3- Selection Sort,        Elementery Sorts. nested for loops 
@@ -34,3 +34,7 @@
 /*
 A sorting algorithm is said to be stable if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted. Some sorting algorithms are stable by nature like Insertion sort, Merge Sort, Bubble Sort, etc. And some sorting algorithms are not, like Heap Sort, Quick Sort, etc.
 */
+
+// Non comparison sorts are: -> only work with numbers in a limited range. 
+// 1. Counting Sort.
+// 2. Radix Sort. 
