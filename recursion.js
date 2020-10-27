@@ -19,3 +19,8 @@ function inception(){
 // It is recommended to use recursion when working with data structures that we're not sure how deep they are or how many loops we have to go through.
 
 // It is useful in tree data structures and  doing traversal.
+
+// Everytime you are using a tree or converting something into a tree, consider a recursion.
+//  1- Divided into a number of subproblems that are smaller instances of the sa,e problem.
+//  2- Each instance of the subproblem is identical in nature.
+//  3- The colutions of each subproblem can be combined to solve the problem at hand.
