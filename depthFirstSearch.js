@@ -188,7 +188,7 @@ class BinarySearchTree {
 }
 
 function traverseInorder(node, list){
-    console.log(node.value)
+    // console.log(node.value)
     if(node.left){
         traverseInorder(node.left, list);
     }
@@ -200,7 +200,7 @@ function traverseInorder(node, list){
 }
 
 function traversePreOrder(node, list){
-    console.log(node.value)
+    // console.log(node.value)
     list.push(node.value)
     if (node.left){
         traversePreOrder(node.left, list)
@@ -208,6 +208,18 @@ function traversePreOrder(node, list){
     if(node.right){
         traversePreOrder(node.right, list)
     }
+    return list;
+}
+
+function traversePostOrder(node, list){
+    // console.log(node.value);
+    if (node.left){
+        traversePostOrder(node.left, list)
+    }
+    if (node.right){
+        traversePostOrder(node.right, list)
+    }
+    list.push(node.value);
     return list;
 }
 
@@ -225,7 +237,11 @@ tree.insert(1)
 // console.log('BFS', tree.BreadthFirstSearchR([tree.root], []))
 
 // tree.DFSInorder()
-tree.DFSPreorder()
+// tree.DFSPreorder()
+// tree.DFSPostorder();
+console.log(tree.DFSPostorder())
+console.log(tree.DFSPreorder())
+console.log(tree.DFSInorder())
 
   //     9
   //  4     20
