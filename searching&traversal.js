@@ -54,4 +54,4 @@ Using an iterative solution with a stack is actually the same as BFS, just using
 
 // Breadth First Search -> is optimal for the shortest path, whats the closest to our node, whats related to the item.
 
-// Depth First Search -> Check to see if something exists. 
+// Depth First Search -> Check to see if something exists.  Its like solving a maze. Recursion. 
