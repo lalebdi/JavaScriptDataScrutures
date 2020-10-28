@@ -27,7 +27,7 @@ beasts.includes('Godzilla');
 // BFS vs DFS:
 // Both have O(n). 
 // BFS -> good for the shortest path, and closer nodes. But, uses more memory (for child node tracking).
-// DFS -> asks does the path exist. It uses less memory. Downside, its slow and doesn't find the shortest path. 
+// DFS -> asks does the path exist. It uses less memory. Downside, its slow and doesn't find the shortest path. Uses recursions 
 
 /*
 BFS:
@@ -43,9 +43,11 @@ Using an iterative solution with a stack is actually the same as BFS, just using
 */
 
 // Quick questions for what to use:
-// 1- If you know a solution is not far from the root of the tree: BFS
-// 2- If the tree is very deep and solutions are rare: BFS
-// 3- If the tree is very wide: DFS
-// 4- If solutions are frequent but located seep in the tree: BFS
-// 5- Determining whether a path exists between two nodes: BFS
+// 1- If you know a solution is not far from the root of the tree -> BFS
+// 2- If the tree is very deep and solutions are rare -> BFS (DFS will take a very long time)
+// 3- If the tree is very wide -> DFS (BSF will need too much memory)
+// 4- If solutions are frequent but located seep in the tree -> DFS
+// 5- Determining whether a path exists between two nodes -> DFS (thats what it is built for)
 // 6- Finding the shortes path: BFS
+
+// To validate a BST, use BFS
