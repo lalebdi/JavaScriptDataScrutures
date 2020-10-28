@@ -51,3 +51,7 @@ Using an iterative solution with a stack is actually the same as BFS, just using
 // 6- Finding the shortes path: BFS
 
 // To validate a BST, use BFS
+
+// Breadth First Search -> is optimal for the shortest path, whats the closest to our node, whats related to the item.
+
+// Depth First Search -> Check to see if something exists. 
