@@ -133,7 +133,7 @@ class BinarySearchTree{
         }
     }
 
-    breadthForstSearch(){
+    breadthForstSearch(){ // Iterative approach
         let currentNode = this.root;
         let list = [];
         let queue = [];
@@ -152,6 +152,22 @@ class BinarySearchTree{
         }
         return list;
     }
+
+    breadthForstSearchR(queue, list){
+        if(!queue.length){ // Stop when the queue is empty
+            return list;
+        }
+
+        let currentNode = queue.shift();
+        list.push(currentNode.value);
+        if (currentNode.left){
+            queue.push(currentNode.left);
+        }
+        if(currentNode.right){
+            queue.push(currentNode.right);
+        }
+        return this.breadthForstSearchR(queue, list);
+    }
 }
 
 const tree = new BinarySearchTree();
@@ -165,6 +181,7 @@ tree.insert(1);
 tree.remove(170);
 JSON.stringify(traverse(tree.root));
 tree.breadthForstSearch()
+tree.breadthForstSearchR([tree.root], [])
 
 //       9
 //   4       20
