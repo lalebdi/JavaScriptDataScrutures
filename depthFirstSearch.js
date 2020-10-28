@@ -172,7 +172,33 @@ class BinarySearchTree {
         
         return this.BreadthFirstSearchR(queue, list);
         }
+
+    DFSInorder(){
+        return traverseInorder(this.root, []) // -> this is the recursive function
+    };
+
+    DFSPostorder(){
+        return traversePostOrder(this.root, [])
     }
+
+    DFSPreorder(){
+        return traversePreOrder(this.root, [])
+    }
+
+}
+
+function traverseInorder(node, list){
+    console.log(node.value)
+    if(node.left){
+        traverseInorder(node.left, list);
+    }
+    list.push(node.value);
+    if (node.right){
+        traverseInorder(node.right, list)
+    }
+    return list
+}
+
 
 const tree = new BinarySearchTree();
 tree.insert(9)
@@ -182,9 +208,11 @@ tree.insert(20)
 tree.insert(170)
 tree.insert(15)
 tree.insert(1)
-  
-console.log('BFS', tree.BreadthFirstSearch());
-console.log('BFS', tree.BreadthFirstSearchR([tree.root], []))
+
+// console.log('BFS', tree.BreadthFirstSearch());
+// console.log('BFS', tree.BreadthFirstSearchR([tree.root], []))
+
+tree.DFSInorder()
 
   //     9
   //  4     20
