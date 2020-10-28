@@ -199,6 +199,18 @@ function traverseInorder(node, list){
     return list
 }
 
+function traversePreOrder(node, list){
+    console.log(node.value)
+    list.push(node.value)
+    if (node.left){
+        traversePreOrder(node.left, list)
+    }
+    if(node.right){
+        traversePreOrder(node.right, list)
+    }
+    return list;
+}
+
 
 const tree = new BinarySearchTree();
 tree.insert(9)
@@ -212,7 +224,8 @@ tree.insert(1)
 // console.log('BFS', tree.BreadthFirstSearch());
 // console.log('BFS', tree.BreadthFirstSearchR([tree.root], []))
 
-tree.DFSInorder()
+// tree.DFSInorder()
+tree.DFSPreorder()
 
   //     9
   //  4     20
