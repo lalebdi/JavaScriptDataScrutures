@@ -22,3 +22,30 @@ beasts.find(function(item){
 })
 
 beasts.includes('Godzilla');
+
+
+// BFS vs DFS:
+// Both have O(n). 
+// BFS -> good for the shortest path, and closer nodes. But, uses more memory (for child node tracking).
+// DFS -> asks does the path exist. It uses less memory. Downside, its slow and doesn't find the shortest path. 
+
+/*
+BFS:
+
+Time complexity is O(|V|), where |V| is the number of nodes. You need to traverse all nodes. 
+Space complexity is O(|V|) as well - since at worst case you need to hold all vertices in the queue.
+
+DFS:
+
+Time complexity is again O(|V|), you need to traverse all nodes. 
+Space complexity - depends on the implementation, a recursive implementation can have a O(h) space complexity [worst case], where h is the maximal depth of your tree. 
+Using an iterative solution with a stack is actually the same as BFS, just using a stack instead of a queue - so you get both O(|V|) time and space complexity.
+*/
+
+// Quick questions for what to use:
+// 1- If you know a solution is not far from the root of the tree: BFS
+// 2- If the tree is very deep and solutions are rare: BFS
+// 3- If the tree is very wide: DFS
+// 4- If solutions are frequent but located seep in the tree: BFS
+// 5- Determining whether a path exists between two nodes: BFS
+// 6- Finding the shortes path: BFS
