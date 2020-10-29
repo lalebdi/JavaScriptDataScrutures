@@ -25,3 +25,6 @@ console.log('2: ', memoized(5))
 // When to use Memoization:
 //  1- Can be divided into subproblems. 
 //  2- Recursive Solution. 
+//  3- Are there repetitive subproblems?
+//  4- Memoize subproblems.
+
