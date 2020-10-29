@@ -21,3 +21,7 @@ const memoized = memoizedAddTo80()
 
 console.log('1: ', memoized(5))
 console.log('2: ', memoized(5))
+
+// When to use Memoization:
+//  1- Can be divided into subproblems. 
+//  2- Recursive Solution. 
