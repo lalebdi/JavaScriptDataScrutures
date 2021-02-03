@@ -69,7 +69,7 @@ git clone https://github.com/lalebdi/JavaScriptDataScrutures.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-### This app will be deployed soon
+### This is a good review before an actual assessment.
 
 
 
