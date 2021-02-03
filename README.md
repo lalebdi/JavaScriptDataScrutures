@@ -4,7 +4,7 @@
     
  
 
-  <h3 align="center">This is My First Blog Site</h3>
+  <h3 align="center">This is My Data Strcutures and Algos Repo</h3>
 
   <p align="center">
     An awesome Flask app!
