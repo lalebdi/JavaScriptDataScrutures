@@ -62,7 +62,7 @@ This is my fisrt blog site site that I created using Flash. Hope you like it. It
 
 Clone the repo
 ```sh
-git clone https://github.com/lalebdi/FlaskBlog.git
+git clone https://github.com/lalebdi/JavaScriptDataScrutures.git
 ```
 
 
