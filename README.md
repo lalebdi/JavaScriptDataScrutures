@@ -7,7 +7,7 @@
   <h3 align="center">This is My Data Strcutures and Algos Repo</h3>
 
   <p align="center">
-    An awesome Flask app!
+    A complete base!
     <br />
     
   </p>
