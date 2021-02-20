@@ -57,8 +57,6 @@ This is my fisrt blog site site that I created using Flash. Hope you like it. It
 ## Getting Started
 
 
-### Installation
-
 
 Clone the repo
 ```sh
