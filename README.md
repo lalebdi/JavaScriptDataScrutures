@@ -93,10 +93,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-
-
-Project Link: https://github.com/lalebdi/JavaScriptDataScrutures
-Or [https://www.leahwebdev.com](https://www.leahwebdev.com)
