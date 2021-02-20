@@ -67,11 +67,6 @@ git clone https://github.com/lalebdi/JavaScriptDataScrutures.git
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-### This is a good review before an actual assessment.
-
-
 
 
 
