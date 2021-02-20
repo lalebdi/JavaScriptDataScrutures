@@ -73,9 +73,5 @@ git clone https://github.com/lalebdi/JavaScriptDataScrutures.git
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-
 
 
