@@ -24,8 +24,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
-* [License](#license)
-
 
 
 <!-- ABOUT THE PROJECT -->
