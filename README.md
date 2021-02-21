@@ -55,3 +55,4 @@ Problem solving steps:
                         5- How should I label the important pieces of the data that are a part of the problem?
 
 2. Concete Examples:
+  Coming up with examples can help you understand the problem. Examples also provide sanity checks that your solution works how it should. (User Stories or Unit Tests)
