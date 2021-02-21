@@ -48,4 +48,5 @@ Problem solving steps:
 
 1. Understand the problem:
     Start with:
+        1- Can I restate the problem in my own words? (In your own words -> To make sure you understand what the question is.)
 
