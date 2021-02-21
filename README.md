@@ -67,4 +67,4 @@ Problem solving steps:
 
 4. Solve or Simplify:
     Simplify infers solving a simpler problem =>
-    
+        - Find the core of the difficulty in what you're trying to do.
