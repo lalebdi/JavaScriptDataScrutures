@@ -66,3 +66,5 @@ Problem solving steps:
          Write the steps you will take.
 
 4. Solve or Simplify:
+    Simplify infers solving a simpler problem =>
+    
