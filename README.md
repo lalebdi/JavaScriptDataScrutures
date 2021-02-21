@@ -58,3 +58,4 @@ Problem solving steps:
   Coming up with examples can help you understand the problem. Examples also provide sanity checks that your solution works how it should. (User Stories or Unit Tests)
       * Start with simple examples. 2 or 3 with an input and a output. Easiest use cases. 
       *     * Progress to more complex examples.
+      *         * Explore examples with empty inputs. (edge cases)
