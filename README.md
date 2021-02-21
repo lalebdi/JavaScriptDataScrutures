@@ -63,3 +63,4 @@ Problem solving steps:
   
 3. Break It Down:
      AKA Pseudo-code
+         Write the steps you will take.
