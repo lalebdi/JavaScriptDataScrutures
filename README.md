@@ -54,3 +54,4 @@ Problem solving steps:
                     4- Can the outputs be determined from the inputs? Do I have enough info to solve the problem? 
                         5- How should I label the important pieces of the data that are a part of the problem?
 
+2. Concete Examples:
