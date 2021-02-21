@@ -46,6 +46,6 @@ git clone https://github.com/lalebdi/JavaScriptDataScrutures.git
 
 Problem solving steps:
 
-
+1. Understand the problem:
 
 
