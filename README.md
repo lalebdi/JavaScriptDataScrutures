@@ -59,3 +59,4 @@ Problem solving steps:
       * Start with simple examples. 2 or 3 with an input and a output. Easiest use cases. 
       *     * Progress to more complex examples.
       *         * Explore examples with empty inputs. (edge cases)
+      *             * Explore examples with invalid inputs. 
