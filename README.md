@@ -76,3 +76,4 @@ Problem solving steps:
         ~ Can you derive the result differently?
             ~ Can you understand it at a glance?
                 ~ Can you use the result or method for some other problem?
+                    ~ Can you improve the performace of your solution?
