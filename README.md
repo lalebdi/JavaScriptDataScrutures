@@ -75,3 +75,4 @@ Problem solving steps:
     ~ Can you check the result?
         ~ Can you derive the result differently?
             ~ Can you understand it at a glance?
+                ~ Can you use the result or method for some other problem?
