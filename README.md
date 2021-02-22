@@ -74,3 +74,4 @@ Problem solving steps:
 5. Look Back and Refactor:
     ~ Can you check the result?
         ~ Can you derive the result differently?
+            ~ Can you understand it at a glance?
