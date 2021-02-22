@@ -69,3 +69,4 @@ Problem solving steps:
     Simplify infers solving a simpler problem =>
         - Find the core of the difficulty in what you're trying to do.
         -      Temporarily ignore that difficulty.
+        -          - Write a simplified solution.
