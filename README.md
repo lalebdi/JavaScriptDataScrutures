@@ -71,3 +71,4 @@ Problem solving steps:
         -      Temporarily ignore that difficulty.
         -           Write a simplified solution.
         -               Then incorporate that difficulty back in.
+5. Look Back and Refactor:
