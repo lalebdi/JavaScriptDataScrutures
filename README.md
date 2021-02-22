@@ -77,3 +77,4 @@ Problem solving steps:
             ~ Can you understand it at a glance?
                 ~ Can you use the result or method for some other problem?
                     ~ Can you improve the performace of your solution?
+                        ~ can you think of other ways to refactor?
