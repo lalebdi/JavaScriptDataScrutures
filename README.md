@@ -73,3 +73,4 @@ Problem solving steps:
         -               Then incorporate that difficulty back in.
 5. Look Back and Refactor:
     ~ Can you check the result?
+        ~ Can you derive the result differently?
