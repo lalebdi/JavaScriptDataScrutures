@@ -79,3 +79,6 @@ Problem solving steps:
                     ~ Can you improve the performace of your solution?
                         ~ can you think of other ways to refactor?
                             ~ How have other people solved this problem?
+
+Patterns:
+1. Frequency Counters:
