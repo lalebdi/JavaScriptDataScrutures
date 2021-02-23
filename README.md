@@ -83,3 +83,4 @@ Problem solving steps:
 Patterns:
 1. Frequency Counters:
     This pattern uses objects or sets to collect values/frequencies of values. This can often avoid the need for nested for loops "O(n^2)" operations with arrays/strings. 2 loops are better than nested loops. 
+        => The idea is usually use an object to construct a profile to break down the contents of an array or string and compare that break down to another on how they look. 
