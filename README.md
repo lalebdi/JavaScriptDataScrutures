@@ -96,3 +96,4 @@ Patterns:
 
 4. Divide and Conquer:
     This pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data. This is great for time complexity. Used in arrays, strings, linkedlist and tries.
+    So, you start in the middle and see if the value is less or more than the middle and repeat.
