@@ -93,3 +93,5 @@ Patterns:
 3. Sliding Window:
     This pattern involves creating a window which can either be an array or number from one position to another. Depending on a certain condition, the window either increases or closes (and a new window is created). This is useful for keeping track of a subset of data in an array or string.
     i.e. finding a subset of the data.
+
+4. Divide and Conquer:
