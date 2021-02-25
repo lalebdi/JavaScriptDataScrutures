@@ -20,7 +20,7 @@
 
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
-* [Usage](#usage)
+
 * [Contributing](#contributing)
 
 
