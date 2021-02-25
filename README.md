@@ -59,7 +59,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- Problem Solving -->
 ## Problem Solving
 
-Problem solving steps:
+Problem solving steps:<br>
 
 1. Understand the problem:
     Start with:
