@@ -78,7 +78,7 @@ Problem solving steps:<br>
   
 3. Break It Down:<br>
      AKA Pseudo-code<br>
-         Write the steps you will take.
+         Write the steps you will take.<br>
 
 4. Solve or Simplify:
     Simplify infers solving a simpler problem =>
