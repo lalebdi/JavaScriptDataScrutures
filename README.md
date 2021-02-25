@@ -4,7 +4,7 @@
     
  
 
-  <h3 align="center">This is My Data Strcutures and Algos Repo</h3>
+  <h3 align="center">This is My Data Strcutures and Algorithms Repo</h3>
 
   <p align="center">
     A complete base!
@@ -26,7 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The is a Data Structures and Algos repo. I've written plenty of comments to help you understand.
+The is a Data Structures and Algorithms repo. I've written plenty of comments to help you understand.
 
 
 
