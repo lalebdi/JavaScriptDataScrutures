@@ -77,7 +77,7 @@ Problem solving steps:<br>
       *              Explore examples with invalid inputs. 
   
 3. Break It Down:<br>
-     AKA Pseudo-code
+     AKA Pseudo-code<br>
          Write the steps you will take.
 
 4. Solve or Simplify:
