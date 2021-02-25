@@ -65,7 +65,7 @@ Problem solving steps:<br>
     Start with:<br>
         1- Can I restate the problem in my own words? (In your own words -> To make sure you understand what the question is.)<br>
             2- What are the inputs that go into the problem? <br>
-                3- What are the outputs that should come from the solution to the problem?
+                3- What are the outputs that should come from the solution to the problem?<br>
                     4- Can the outputs be determined from the inputs? Do I have enough info to solve the problem? 
                         5- How should I label the important pieces of the data that are a part of the problem?
 
