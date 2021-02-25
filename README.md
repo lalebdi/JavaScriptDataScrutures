@@ -69,7 +69,7 @@ Problem solving steps:<br>
                     4- Can the outputs be determined from the inputs? Do I have enough info to solve the problem? <br>
                         5- How should I label the important pieces of the data that are a part of the problem?<br>
 
-2. Concete Examples:
+2. Concete Examples:<br>
   Coming up with examples can help you understand the problem. Examples also provide sanity checks that your solution works how it should. (User Stories or Unit Tests)
       *   Start with simple examples. 2 or 3 with an input and a output. Easiest use cases. 
       *      Progress to more complex examples.
