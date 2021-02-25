@@ -26,7 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+The is a Data Structures and Algos repo. I've written plenty of comments to help you understand.
 
 
 
