@@ -76,7 +76,7 @@ Problem solving steps:<br>
       *          Explore examples with empty inputs. (edge cases)
       *              Explore examples with invalid inputs. 
   
-3. Break It Down:
+3. Break It Down:<br>
      AKA Pseudo-code
          Write the steps you will take.
 
