@@ -62,7 +62,7 @@ Contributions are what make the open source community such an amazing place to b
 Problem solving steps:<br>
 
 1. Understand the problem:<br>
-    Start with:
+    Start with:<br>
         1- Can I restate the problem in my own words? (In your own words -> To make sure you understand what the question is.)
             2- What are the inputs that go into the problem? 
                 3- What are the outputs that should come from the solution to the problem?
