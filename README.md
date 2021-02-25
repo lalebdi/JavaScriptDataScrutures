@@ -21,6 +21,7 @@
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
+* [Problem Solving]
 
 
 <!-- ABOUT THE PROJECT -->
