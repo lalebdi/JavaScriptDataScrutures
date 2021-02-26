@@ -83,7 +83,7 @@ Problem solving steps:<br>
 4. Solve or Simplify:<br>
     Simplify infers solving a simpler problem =><br>
         - Find the core of the difficulty in what you're trying to do.<br>
-        -      Temporarily ignore that difficulty.
+        -      Temporarily ignore that difficulty.<br>
         -           Write a simplified solution.
         -               Then incorporate that difficulty back in.
 5. Look Back and Refactor:
