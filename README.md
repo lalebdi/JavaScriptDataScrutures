@@ -85,7 +85,7 @@ Problem solving steps:<br>
         - Find the core of the difficulty in what you're trying to do.<br>
         -      Temporarily ignore that difficulty.<br>
         -           Write a simplified solution.<br>
-        -               Then incorporate that difficulty back in.
+        -               Then incorporate that difficulty back in.<br>
 5. Look Back and Refactor:
     ~ Can you check the result?
         ~ Can you derive the result differently?
