@@ -86,7 +86,7 @@ Problem solving steps:<br>
         -      Temporarily ignore that difficulty.<br>
         -           Write a simplified solution.<br>
         -               Then incorporate that difficulty back in.<br>
-5. Look Back and Refactor:
+5. Look Back and Refactor:<br>
     ~ Can you check the result?
         ~ Can you derive the result differently?
             ~ Can you understand it at a glance?
