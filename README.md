@@ -81,7 +81,7 @@ Problem solving steps:<br>
          Write the steps you will take.<br>
 
 4. Solve or Simplify:<br>
-    Simplify infers solving a simpler problem =>
+    Simplify infers solving a simpler problem =><br>
         - Find the core of the difficulty in what you're trying to do.
         -      Temporarily ignore that difficulty.
         -           Write a simplified solution.
