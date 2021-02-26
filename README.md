@@ -90,7 +90,7 @@ Problem solving steps:<br>
     ~ Can you check the result?<br>
         ~ Can you derive the result differently?<br>
             ~ Can you understand it at a glance?<br>
-                ~ Can you use the result or method for some other problem?
+                ~ Can you use the result or method for some other problem?<br>
                     ~ Can you improve the performace of your solution?
                         ~ can you think of other ways to refactor?
                             ~ How have other people solved this problem?
