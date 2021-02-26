@@ -80,7 +80,7 @@ Problem solving steps:<br>
      AKA Pseudo-code<br>
          Write the steps you will take.<br>
 
-4. Solve or Simplify:
+4. Solve or Simplify:<br>
     Simplify infers solving a simpler problem =>
         - Find the core of the difficulty in what you're trying to do.
         -      Temporarily ignore that difficulty.
