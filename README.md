@@ -102,7 +102,7 @@ Patterns:<br>
 
 2. Multiple Pointers:
     Creating pointers or values that correspond to an index or position and move towards the beginning, end or  towards each other middle based on a certain condition. Minimal space complexity. 
-    This is used for strings, arrays or doubly linkedlists.
+    This is used for strings, arrays or doubly linkedlists.<br>
     Usually used to find a pair. <br>
 
 3. Sliding Window:<br>
