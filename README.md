@@ -101,7 +101,7 @@ Patterns:<br>
         => The idea is usually use an object to construct a profile to break down the contents of an array or string and compare that break down to another on how they look. 
 
 2. Multiple Pointers:
-    Creating pointers or values that correspond to an index or position and move towards the beginning, end or  towards each other middle based on a certain condition. Minimal space complexity. 
+    Creating pointers or values that correspond to an index or position and move towards the beginning, end or  towards each other middle based on a certain condition. Minimal space complexity. <br>
     This is used for strings, arrays or doubly linkedlists.<br>
     Usually used to find a pair. <br>
 
