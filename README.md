@@ -109,6 +109,6 @@ Patterns:<br>
     This pattern involves creating a window which can either be an array or number from one position to another. Depending on a certain condition, the window either increases or closes (and a new window is created). This is useful for keeping track of a subset of data in an array or string.
     i.e. finding a subset of the data.
 
-4. Divide and Conquer:
+4. Divide and Conquer:<br>
     This pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data. This is great for time complexity. Used in arrays, strings, linkedlist and tries.<br>
     So, you start in the middle and see if the value is less or more than the middle and repeat.
