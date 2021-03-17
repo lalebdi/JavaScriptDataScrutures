@@ -22,3 +22,8 @@ z = stringSearch("lorie loled", "pop")
 console.log(x)
 console.log(y)
 console.log(z)
+
+
+
+
+// end of code
