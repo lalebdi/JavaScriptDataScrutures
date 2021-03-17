@@ -37,3 +37,5 @@ function search2(array, val){ // O(log n)
     }
     return -1
 }
+
+// end of code
