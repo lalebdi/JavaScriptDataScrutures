@@ -27,3 +27,7 @@ function binarySearch(arr, val){
 arr = [1, 2, 3, 4, 5]
 x = binarySearch(arr, 2)
 console.log(x)
+
+
+
+// end of code
