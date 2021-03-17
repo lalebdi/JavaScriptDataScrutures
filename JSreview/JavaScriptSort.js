@@ -11,3 +11,7 @@ function compareByLen(str1, str2){
 }
 
 ["Obama", "Jeb", "Data Structures", "Algorithms"].sort(compareByLen)
+
+
+
+// end of code
